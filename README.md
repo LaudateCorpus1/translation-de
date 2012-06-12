@@ -1,0 +1,4 @@
+translation-de
+==============
+
+German translation
